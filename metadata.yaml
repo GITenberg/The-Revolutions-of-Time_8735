@@ -1,0 +1,21 @@
+_repo: The-Revolutions-of-Time_8735
+creator:
+  author:
+    agent_name: Dunn, Jonathan
+    gutenberg_agent_id: '2867'
+    url: http://www.gutenberg.org/2009/agents/2867
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8735'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Revolutions of Time
+url: http://www.gutenberg.org/ebooks/8735
