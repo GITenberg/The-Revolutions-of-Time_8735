@@ -1,10 +1,16 @@
 _repo: The-Revolutions-of-Time_8735
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dunn, Jonathan
     gutenberg_agent_id: '2867'
     url: http://www.gutenberg.org/2009/agents/2867
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8735#The-Revolutions-of-Time
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2005-08-01'
 gutenberg_type: Text
